@@ -1,5 +1,5 @@
 # Inroduction
-Dive into the data market! Focusing on data analyst roles, this project explores top paying jobs in demand skills, and where high demand meets high salary in data analuystics.
+Dive into the data market! Focusing on data analyst roles, this project explores top paying jobs in demand skills, and where high demand meets high salary in data analytics.
 SQL Queries? Check them out here: [project_sqlfolder](/project_sql/)
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and indemand skills, streamlining orthers to work to find optimal jobs.
